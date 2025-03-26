@@ -19,16 +19,16 @@
 <details open>
 <summary align="center"><h2 ><img alt="GIF" src="./Image//handshake2.gif" width="25px"> Social Media </h2></summary>
 <div id="badges" align="center">
-    <a href="https://t.me/K1rsN7" target="_blank">
+    <a href="https://t.me/iArtefact" target="_blank">
     <img  lign="left"src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram"/> 
     </a>
-    <a href="https://vk.com/K1rsN7" target="_blank">
+    <a href="https://vk.com/iArtefact" target="_blank">
     <img lign="left" src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK"/>  
     </a>
     <a href="https://discord.com/users/519507183436824587/" target="_blank">
     <img lign="left" src="https://www.svgviewer.dev/static-svgs/34446/discord-v2.svg" width="40" height="40" alt="Discord"/> 
     </a>
-    <a href="https://www.kaggle.com/k1rsn7" target="_blank">
+    <a href="https://www.kaggle.com/iArtefact" target="_blank">
     <img lign="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" height="40" alt="Kaggle"/>
     </a>
 </div>
@@ -82,46 +82,46 @@
 <details open>
 <summary align="center"><h2><img alt="GIF" src="./Image/trophy.gif" width="25px"> My various diplomas, certificates </h2></summary>
   <div align="center">
-      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_17.png" target="_blank"> <img height ="150px"  src="./Image/diploma_17.png" /></a>
-      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_16.png" target="_blank"> <img height ="150px"  src="./Image/diploma_16.png" /></a>
-      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_15.png" target="_blank"> <img height ="150px"  src="./Image/diploma_15.png" /></a>
-      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_14.png" target="_blank"> <img height ="150px"  src="./Image/diploma_14.png" /></a>
-      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_13.png" target="_blank"> <img height ="150px"  src="./Image/diploma_13.png" /></a>
-      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_12.png" target="_blank"> <img height ="150px"  src="./Image/diploma_12.png" /></a>
-      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_11.png" target="_blank"> <img height ="150px"  src="./Image/diploma_11.png" /></a>
-      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_10.png" target="_blank"> <img height ="150px"  src="./Image/diploma_10.png" /></a>
-      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_9.png" target="_blank"> <img height ="150px"  src="./Image/diploma_9.png" /></a>
-      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_8.png" target="_blank"> <img height ="150px"  src="./Image/diploma_8.png" /></a>
-      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_7.png" target="_blank"> <img height ="150px"  src="./Image/diploma_7.png" /></a>
-      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_6.png" target="_blank"> <img height ="150px"  src="./Image/diploma_6.png" /></a>
-      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_5.png" target="_blank"> <img height ="150px"  src="./Image/diploma_5.5.png" /></a>
-      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_5.png" target="_blank"> <img height ="150px"  src="./Image/diploma_5.png" /></a>
-      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_4.png" target="_blank"> <img height ="150px"  src="./Image/diploma4.5.png" /></a>
-      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_4.png" target="_blank"> <img height ="150px"  src="./Image/diploma_4.png" /></a>
-      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_3.png" target="_blank"> <img height ="150px"  src="./Image/diploma_3.png" /></a>
-      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_2.png" target="_blank"> <img height ="150px"  src="./Image/diploma_2.png" /></a>
-      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_1.png" target="_blank"> <img height ="150px"  src="./Image/diploma_1.png" /></a>
-      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_0.png" target="_blank"> <img height ="150px"  src="./Image/diploma_0.png" /></a>
+      <a href="https://github.com/iArtefact/iArtefact/blob/main/Image/diploma_17.png" target="_blank"> <img height ="150px"  src="./Image/diploma_17.png" /></a>
+      <a href="https://github.com/iArtefact/iArtefact/blob/main/Image/diploma_16.png" target="_blank"> <img height ="150px"  src="./Image/diploma_16.png" /></a>
+      <a href="https://github.com/iArtefact/iArtefact/blob/main/Image/diploma_15.png" target="_blank"> <img height ="150px"  src="./Image/diploma_15.png" /></a>
+      <a href="https://github.com/iArtefact/iArtefact/blob/main/Image/diploma_14.png" target="_blank"> <img height ="150px"  src="./Image/diploma_14.png" /></a>
+      <a href="https://github.com/iArtefact/iArtefact/blob/main/Image/diploma_13.png" target="_blank"> <img height ="150px"  src="./Image/diploma_13.png" /></a>
+      <a href="https://github.com/iArtefact/iArtefact/blob/main/Image/diploma_12.png" target="_blank"> <img height ="150px"  src="./Image/diploma_12.png" /></a>
+      <a href="https://github.com/iArtefact/iArtefact/blob/main/Image/diploma_11.png" target="_blank"> <img height ="150px"  src="./Image/diploma_11.png" /></a>
+      <a href="https://github.com/iArtefact/iArtefact/blob/main/Image/diploma_10.png" target="_blank"> <img height ="150px"  src="./Image/diploma_10.png" /></a>
+      <a href="https://github.com/iArtefact/iArtefact/blob/main/Image/diploma_9.png" target="_blank"> <img height ="150px"  src="./Image/diploma_9.png" /></a>
+      <a href="https://github.com/iArtefact/iArtefact/blob/main/Image/diploma_8.png" target="_blank"> <img height ="150px"  src="./Image/diploma_8.png" /></a>
+      <a href="https://github.com/iArtefact/iArtefact/blob/main/Image/diploma_7.png" target="_blank"> <img height ="150px"  src="./Image/diploma_7.png" /></a>
+      <a href="https://github.com/iArtefact/iArtefact/blob/main/Image/diploma_6.png" target="_blank"> <img height ="150px"  src="./Image/diploma_6.png" /></a>
+      <a href="https://github.com/iArtefact/iArtefact/blob/main/Image/diploma_5.png" target="_blank"> <img height ="150px"  src="./Image/diploma_5.5.png" /></a>
+      <a href="https://github.com/iArtefact/iArtefact/blob/main/Image/diploma_5.png" target="_blank"> <img height ="150px"  src="./Image/diploma_5.png" /></a>
+      <a href="https://github.com/iArtefact/iArtefact/blob/main/Image/diploma_4.png" target="_blank"> <img height ="150px"  src="./Image/diploma4.5.png" /></a>
+      <a href="https://github.com/iArtefact/iArtefact/blob/main/Image/diploma_4.png" target="_blank"> <img height ="150px"  src="./Image/diploma_4.png" /></a>
+      <a href="https://github.com/iArtefact/iArtefact/blob/main/Image/diploma_3.png" target="_blank"> <img height ="150px"  src="./Image/diploma_3.png" /></a>
+      <a href="https://github.com/iArtefact/iArtefact/blob/main/Image/diploma_2.png" target="_blank"> <img height ="150px"  src="./Image/diploma_2.png" /></a>
+      <a href="https://github.com/iArtefact/iArtefact/blob/main/Image/diploma_1.png" target="_blank"> <img height ="150px"  src="./Image/diploma_1.png" /></a>
+      <a href="https://github.com/iArtefact/iArtefact/blob/main/Image/diploma_0.png" target="_blank"> <img height ="150px"  src="./Image/diploma_0.png" /></a>
   </div>
     <br>
 </details>
 <details open>
 <summary align="center"><h2> <img alt="GIF" src="./Image//statistics.gif" width="25px"> Profile Statistics </h2></summary>
   <div align="center">
-    <img height="192px" alt="K1rsN7's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1rsN7&theme=transparent&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact"weight=41% height="192px"/>
-      <img height="192px" src="https://github-readme-stats.vercel.app/api?username=K1rsN7&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
-<!--       <img src="https://wakatime.com/share/@K1rsN7/00fbd77f-ac04-4ba5-aebe-b75a9efc825a.svg" height="500px"/> -->
+    <img height="192px" alt="iArtefact's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iArtefact&theme=transparent&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact"weight=41% height="192px"/>
+      <img height="192px" src="https://github-readme-stats.vercel.app/api?username=iArtefact&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
+<!--       <img src="https://wakatime.com/share/@iArtefact/00fbd77f-ac04-4ba5-aebe-b75a9efc825a.svg" height="500px"/> -->
   </div>
   <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=K1rsN7&layout=compact&theme=shadow_blue&hide=Other&title_color=84C2C0&bg_color=00000000&text_color=DEDEDE&border_color=00000000">
-  <a href="https://github.com/K1rsN7/K1rsN7"><img alt="K1rsN7's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=K1rsN7&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
-  <img src="https://wakatime.com/share/@K1rsN7/e713d501-852d-48fb-adb3-8e9f584cfdf4.svg">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=iArtefact&layout=compact&theme=shadow_blue&hide=Other&title_color=84C2C0&bg_color=00000000&text_color=DEDEDE&border_color=00000000">
+  <a href="https://github.com/iArtefact/iArtefact"><img alt="iArtefact's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=iArtefact&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
+  <img src="https://wakatime.com/share/@iArtefact/e713d501-852d-48fb-adb3-8e9f584cfdf4.svg">
   </div>
 
 <div align="center">
 <br>
 <p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{K1rsN7}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{iArtefact}/count.svg" /></p> 
 </div>
 <br>
 </details>
