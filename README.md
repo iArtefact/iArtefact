@@ -22,16 +22,10 @@
     <a href="https://t.me/iArtefact" target="_blank">
     <img  lign="left"src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram"/> 
     </a>
-    <a href="https://vk.com/iArtefact" target="_blank">
-    <img lign="left" src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK"/>  
-    </a>
-    <a href="https://discord.com/users/519507183436824587/" target="_blank">
+    <a href="https://discord.com/users/artefact_/" target="_blank">
     <img lign="left" src="https://www.svgviewer.dev/static-svgs/34446/discord-v2.svg" width="40" height="40" alt="Discord"/> 
     </a>
-    <a href="https://www.kaggle.com/iArtefact" target="_blank">
-    <img lign="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" height="40" alt="Kaggle"/>
-    </a>
-</div>
+    </div>
 <br>
 </details>  
 <details open>
@@ -82,26 +76,7 @@
 <details open>
 <summary align="center"><h2><img alt="GIF" src="./Image/trophy.gif" width="25px"> My various diplomas, certificates </h2></summary>
   <div align="center">
-      <a href="https://github.com/iArtefact/iArtefact/blob/main/Image/diploma_17.png" target="_blank"> <img height ="150px"  src="./Image/diploma_17.png" /></a>
-      <a href="https://github.com/iArtefact/iArtefact/blob/main/Image/diploma_16.png" target="_blank"> <img height ="150px"  src="./Image/diploma_16.png" /></a>
-      <a href="https://github.com/iArtefact/iArtefact/blob/main/Image/diploma_15.png" target="_blank"> <img height ="150px"  src="./Image/diploma_15.png" /></a>
-      <a href="https://github.com/iArtefact/iArtefact/blob/main/Image/diploma_14.png" target="_blank"> <img height ="150px"  src="./Image/diploma_14.png" /></a>
-      <a href="https://github.com/iArtefact/iArtefact/blob/main/Image/diploma_13.png" target="_blank"> <img height ="150px"  src="./Image/diploma_13.png" /></a>
-      <a href="https://github.com/iArtefact/iArtefact/blob/main/Image/diploma_12.png" target="_blank"> <img height ="150px"  src="./Image/diploma_12.png" /></a>
-      <a href="https://github.com/iArtefact/iArtefact/blob/main/Image/diploma_11.png" target="_blank"> <img height ="150px"  src="./Image/diploma_11.png" /></a>
-      <a href="https://github.com/iArtefact/iArtefact/blob/main/Image/diploma_10.png" target="_blank"> <img height ="150px"  src="./Image/diploma_10.png" /></a>
-      <a href="https://github.com/iArtefact/iArtefact/blob/main/Image/diploma_9.png" target="_blank"> <img height ="150px"  src="./Image/diploma_9.png" /></a>
-      <a href="https://github.com/iArtefact/iArtefact/blob/main/Image/diploma_8.png" target="_blank"> <img height ="150px"  src="./Image/diploma_8.png" /></a>
-      <a href="https://github.com/iArtefact/iArtefact/blob/main/Image/diploma_7.png" target="_blank"> <img height ="150px"  src="./Image/diploma_7.png" /></a>
-      <a href="https://github.com/iArtefact/iArtefact/blob/main/Image/diploma_6.png" target="_blank"> <img height ="150px"  src="./Image/diploma_6.png" /></a>
-      <a href="https://github.com/iArtefact/iArtefact/blob/main/Image/diploma_5.png" target="_blank"> <img height ="150px"  src="./Image/diploma_5.5.png" /></a>
-      <a href="https://github.com/iArtefact/iArtefact/blob/main/Image/diploma_5.png" target="_blank"> <img height ="150px"  src="./Image/diploma_5.png" /></a>
-      <a href="https://github.com/iArtefact/iArtefact/blob/main/Image/diploma_4.png" target="_blank"> <img height ="150px"  src="./Image/diploma4.5.png" /></a>
-      <a href="https://github.com/iArtefact/iArtefact/blob/main/Image/diploma_4.png" target="_blank"> <img height ="150px"  src="./Image/diploma_4.png" /></a>
-      <a href="https://github.com/iArtefact/iArtefact/blob/main/Image/diploma_3.png" target="_blank"> <img height ="150px"  src="./Image/diploma_3.png" /></a>
-      <a href="https://github.com/iArtefact/iArtefact/blob/main/Image/diploma_2.png" target="_blank"> <img height ="150px"  src="./Image/diploma_2.png" /></a>
-      <a href="https://github.com/iArtefact/iArtefact/blob/main/Image/diploma_1.png" target="_blank"> <img height ="150px"  src="./Image/diploma_1.png" /></a>
-      <a href="https://github.com/iArtefact/iArtefact/blob/main/Image/diploma_0.png" target="_blank"> <img height ="150px"  src="./Image/diploma_0.png" /></a>
+      
   </div>
     <br>
 </details>
